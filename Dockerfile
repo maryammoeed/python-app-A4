@@ -14,4 +14,4 @@ EXPOSE 8088
 
 COPY . ./
 
-CMD [ "python", "./app.py" ]
+CMD ["python", "./app.py"]
